@@ -46,7 +46,7 @@ a{
     padding-top: 0px;
     padding-bottom:1px;
 }
-/*..........................red section..............................*/
+/*......................Top heading..............................*/
 h1{
     font-size: 36px;
     font-family: 'Poppins', sans-serif;
@@ -54,7 +54,7 @@ h1{
     color: #192F60;
     padding:30px 113px ;
 }
-/*.....................................................*/
+/*..................all content...................................*/
 .all{
     width: 100%;
     display:flex;
@@ -63,7 +63,7 @@ h1{
     padding-right: 154px;
     padding-left: 113px;
 }
-    /*,...............................*/
+    /*,.........left section......................*/
 .leftbox{
     background: #FFFFFF;
     box-sizing: border-box;
@@ -89,7 +89,7 @@ input{
 }
 
 
-/*...................................................*/
+/*................right section...................................*/
 .r{
     display: flex;
     flex-direction: column;
@@ -128,7 +128,7 @@ h3{
     column-gap: 36px;
     font-size: 16px;
 }
-/*..............................*/
+/*...........bottom right section...................*/
 
 .p1 {
     display: inline-flex;
